@@ -1,0 +1,35 @@
+.movies { 
+  display: grid; 
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto auto;
+  padding: 10px;
+  grid-gap: 5px;
+  width:350px;
+ 
+
+
+}
+
+.back { 
+  background-color:#B5C9C3;
+  padding: 30px;
+  padding-top: 200px;
+  
+  margin:180px;
+  margin-top: -170px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color:#CAB1BD;
+}
+
+
+fieldset {
+  margin: 30px;
+  margin-left:200px;
+  border-radius: 15px;
+  border:none;
+ width: 1050px;
+  background-color: #B5C9C3;
+}
+
+
